@@ -444,7 +444,8 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% elsif site.carpentry == "incubator" %}
-Please check the "Setup" page of
+<h3 id="setup-software">Software to Install</h3>
+Please check the "<a href="https://carpentries-incubator.github.io/deep-learning-intro/setup/">Setup</a>" page of 
 [the lesson site]({{ site.incubator_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
