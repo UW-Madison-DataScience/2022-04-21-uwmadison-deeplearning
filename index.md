@@ -171,6 +171,19 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 {% comment %}
+PREREQUISITE KNOWLEDGE
+
+Modify the block below if there are any special requirements.
+{% endcomment %}
+<p id="prerequisites">
+  <strong>Prerequisites:</strong>
+  Learners are expected to have the following prerequisite knowledge:
+  * Basic Python programming skills and familiarity with the Pandas package.
+  * Basic knowledge on machine learning, including the following concepts: data cleaning, train & test split, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.).
+
+</p>
+
+{% comment %}
 SPECIAL REQUIREMENTS
 
 Modify the block below if there are any special requirements.
