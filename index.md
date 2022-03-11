@@ -178,9 +178,12 @@ Modify the block below if there are any special requirements.
 <p id="prerequisites">
   <strong>Prerequisites:</strong>
   Learners are expected to have the following prerequisite knowledge:
-  * Basic Python programming skills and familiarity with the Pandas package.
-  * Basic knowledge on machine learning, including the following concepts: data cleaning, train & test split, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.).
-
+</p>
+<ul>
+  <li>Basic Python programming skills and familiarity with the Pandas package.</li>
+  <li>Basic knowledge on machine learning, including the following concepts: data cleaning, train & test split, type of problems (regression, classification), overfitting & underfitting, metrics (accuracy, recall, etc.).</li>
+</ul>
+<p>
 </p>
 
 {% comment %}
