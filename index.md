@@ -104,6 +104,17 @@ the pitch.
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
+
+{% comment %}
+Materials
+
+Modify the block below if there are any special requirements.
+{% endcomment %}
+<p id="materials">
+  <strong>Lesson Materials:</strong> Please visit <a href="https://carpentries-incubator.github.io/deep-learning-intro/">the lesson homepage</a> for an overview of the workshop content and schedule. 
+</p>
+
+
 {% comment %}
 AUDIENCE
 
